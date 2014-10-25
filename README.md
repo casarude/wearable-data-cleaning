@@ -15,7 +15,7 @@ The following steps explain how my scrip works:
 
 4. Read the file "features" that contain "mean" and "standart deviation" and use it to extract all the mean and std values from the merged dataset obtained in the previous step.
 
-5. Include the activity names from the "activity-train" dataset and "activity-test" dataset into the merged dataset so that each column can be easily identificable. Here, each activity column is converted into a factor; then each activity factor is renamed with its descriptive activity names.
+5. Include the activity names from the "activity-train" dataset and "activity-test" dataset into the merged dataset so that each column can be easily identifiable. Here, each activity column is converted into a factor; then each activity factor is renamed with its descriptive activity names.
 
 6. Link the class labels with their activity names and the subject who performed the activity for each window sample.
 
