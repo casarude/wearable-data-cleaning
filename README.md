@@ -9,7 +9,7 @@ The following steps explain how my scrip works:
 
 1. Download the zip file from the source to my working directory
 
-2. Access the Xtrain and Xtest files from the extracted directory "UCI HAR Dataset"
+2. Access the Xtrain and Xtest files from the extracted directory "UCI HAR Dataset". The directory "UCI HAR Dataset" was extracted manually from the zip file and placed on my working directory.
 
 3. Merge these two files into one dataset using the cbind command. The result is one dataset containing all the observations (rows) from both files but the same number of columns
 
