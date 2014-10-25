@@ -1,6 +1,6 @@
 Human Activity Recognition Using Smartphones Dataset - CODEBOOK
 
-Activities: Activities performed by the subjects
+1. Activities: Activities performed by the subjects
 
     1 = WALKING
     2 = WALKING_UPSTAIRS
@@ -9,9 +9,9 @@ Activities: Activities performed by the subjects
     5 = STANDING
     6 = LAYING
 
-Subjects: Thirty (30) volunteers who performed the Activities wearing a smartphone. Range from 1 to 30.
+2. Subjects: Thirty (30) volunteers who performed the Activities wearing a smartphone. Range from 1 to 30.
 
-Features: The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
+3. Features: The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
     These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. 
     Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using 
     another low pass Butterworth filter with a corner frequency of 0.3 Hz. Subsequently, the body linear acceleration and angular velocity were 
